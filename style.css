@@ -1,0 +1,11 @@
+.list-unstyled li a{
+color: rgb(108, 114, 120);
+}
+
+.chatbot-img{
+  width: 4%;
+  position: fixed;
+  bottom: 10px;
+  right: 15px;
+
+}
